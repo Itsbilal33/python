@@ -1,0 +1,8 @@
+# print(2+3)
+# print(4+6)
+# print(6+7)
+# print(9+7)
+# print(6+6)
+print("hello_world")
+print("python_with_bilal")
+print("python easy to learn")

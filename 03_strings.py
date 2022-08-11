@@ -1,0 +1,5 @@
+print("hello_world")
+print("python with bilal")
+print('test for single quotes')
+print("Test for duble quotes")
+print("""test for tryple quotes""")
